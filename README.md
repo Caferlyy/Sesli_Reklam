@@ -20,3 +20,5 @@
         "port"        "3306"
     }` | 
  
+
+**Ses ayarı sistemi rus siteden alıntıdır!**
