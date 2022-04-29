@@ -9,7 +9,7 @@
 
  | MYSQL | 
  | :---  | 
- | `  "seslireklam"
+  `  "seslireklam"
     {
         "driver"    "mysql"
         "host"        "İP ADRESİNİZ"
