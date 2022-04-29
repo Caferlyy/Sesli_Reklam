@@ -1,5 +1,5 @@
 # Sesli_Reklam
- **Geliştirilmiş Sesli Reklam Pluginidir MENÜLÜ BAK HA XD**
+ **Geliştirilmiş Sesli Reklam Plugini MENÜLÜ BAK HA XD**
  | Komut  | Açıklama |
  | :---: | :---: |
  | `!sk` | `!sk yazdıktan sonra karşınıza bir menü çıkar ve bu menüden sesli reklam ayarı yapabilirsiniz.`  |
