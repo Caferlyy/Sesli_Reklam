@@ -5,7 +5,7 @@
  | `!sk` | `!sk yazdıktan sonra karşınıza bir menü çıkar ve bu menüden sesli reklam ayarı yapabilirsiniz.`  |
 
 # Kurulum
- **Kurulum için klasörlerdeki smx ve cfg dosyalarını sunucunuzun uygun yerine atmanız yeterli olucaktır**
+ **Kurulum için klasörlerdeki SMX ve CFG dosyalarını sunucunuzun uygun yerine atmanız yeterli olacaktır**
 
  | MYSQL | 
 
