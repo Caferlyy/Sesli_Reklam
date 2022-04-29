@@ -8,7 +8,7 @@
  **Kurulum için klasörlerdeki smx ve cfg dosyalarını sunucunuzun uygun yerine atmanız yeterli olucaktır**
 
  | MYSQL | 
- | :---  | 
+
   `  "seslireklam"
     {
         "driver"    "mysql"
